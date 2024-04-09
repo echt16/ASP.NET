@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|c:\\users\\ferrum\\desktop\\05.04.2024cw\\lab1\\lab1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|solutionrelative:lab1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "lab1\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:05:13.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
