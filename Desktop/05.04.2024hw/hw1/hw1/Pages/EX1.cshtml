@@ -1,0 +1,17 @@
+﻿@page
+@model hw1.Pages.EX1Model
+@{
+    ViewData["Title"] = "EX1";
+}
+
+<form method="post">
+    <input type="text" name="emailInput" placeholder="Email"/><br />
+    <input type="checkbox" name="subscribeInput" value="Subscribe"/>
+    <label for="subscribeInput">Subscribe</label><br />
+    <button type="submit">Send</button>
+</form>
+
+@if (Model.Subscribed)
+{
+    <p>Thank you!</p>
+}
