@@ -1,0 +1,25 @@
+﻿@page
+@model lab1.Pages.EX2Model
+@{
+    ViewData["Title"] = "EX2";
+}
+
+<form method="post">
+    <input type="text" name="searchInput" id="searchInput" />
+    <button type="submit">Search</button>
+</form>
+
+<ul>
+    @foreach (var item in Model.FilteredCountries)
+    {
+        if (Model.SearchInput != "")
+        {
+            int startIndex = item.ToLower().IndexOf(Model.SearchInput.ToLower());
+            string txt = Model.SearchInput;
+            string sub1 = item.Substring(0, startIndex);
+            string sub2 = item.Substring(startIndex, txt.Length);
+            string sub3 = item.Substring(startIndex + txt.Length, item.Length - startIndex - txt.Length);
+            <li>@sub1<span style="color:red;">@sub2</span>@sub3</li>
+        }
+    }
+</ul>

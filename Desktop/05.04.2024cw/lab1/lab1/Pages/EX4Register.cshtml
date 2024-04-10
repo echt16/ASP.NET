@@ -1,0 +1,79 @@
+﻿@page
+@model lab1.Pages.EX3RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<style>
+    input{
+        display:inline-block;
+    }
+    span{
+        display:inline-block;
+    }
+</style>
+
+<form id="form" method="post" onsubmit="return submit(event)">
+    <input type="text" name="tLogin" placeholder="Login" /><span id="loginError" style="color:red; display:none;">Login is incorrect</span><br />
+    <input type="password" name="tPassword" placeholder="Password" /><span id="passError" style="color:red; display:none;">Password must contain a minimum of eight(8) characters</span><br />
+    <input type="password" name="tConfirmPassword" placeholder="Confirm password" /><span id="passConfirmError" style="color:red; display:none;">Password must match</span><br />
+    <input type="email" name="tEmail" placeholder="Email" /><span id="emailError" style="color:red; display:none;">Email is incorrect</span><br />
+    <input type="text" name="tPhone" placeholder="Phone" /><span id="phoneError" style="color:red; display:none;">Phone number is incorrect</span><br />
+    <input type="submit" value="Submit"/><br />
+</form>
+
+<script name="Scripts">
+    
+    function submit(event) {
+        let login = document.getElementsByName("tLogin").item(0).value;
+        let password = document.getElementsByName("tPassword").item(0).value;
+        let confirm = document.getElementsByName("tConfirmPassword").item(0).value;
+        let email = document.getElementsByName("tEmail").item(0).value;
+        let phone = document.getElementsByName("tPhone").item(0).value;
+
+        console.log(login);
+
+        if (login == "login" || login == "") {
+            loginError.style.display = "block";
+            return false;
+        }
+        else {
+            loginError.style.display = "none";
+        }
+
+        if (password.length < 8) {
+            passError.style.display = "block";
+            return false;
+        }
+        else {
+            passError.style.display = "none";
+        }
+
+        if (confirm != password) {
+            passConfirmError.style.display = "block";
+            return false;
+        }
+        else {
+            passConfirmError.style.display = "none";
+        }
+
+        if (email == "") {
+            emailError.style.display = "block";
+            return false;
+        }
+        else {
+            emailError.style.display = "none";
+        }
+
+        if (phone.length < 10 && phone.length > 15) {
+            phoneError.style.display = "block";
+            return false;
+        }
+        else {
+            phoneError.style.display = "none";
+        }
+        return true;
+    }
+
+    document.querySelector("#form").onsubmit = submit;
+</script>

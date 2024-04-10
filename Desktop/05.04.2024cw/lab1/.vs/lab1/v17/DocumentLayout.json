@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|c:\\users\\ferrum\\desktop\\05.04.2024cw\\lab1\\lab1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|solutionrelative:lab1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|c:\\users\\ferrum\\desktop\\05.04.2024cw\\lab1\\lab1\\pages\\ex5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|solutionrelative:lab1\\pages\\ex5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|c:\\users\\ferrum\\desktop\\05.04.2024cw\\lab1\\lab1\\pages\\ex5.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15816106-0318-47F0-A9F6-F2C13E27B83C}|lab1\\lab1.csproj|solutionrelative:lab1\\pages\\ex5.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EX5.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\Pages\\EX5.cshtml.cs",
+              "RelativeDocumentMoniker": "lab1\\Pages\\EX5.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\Pages\\EX5.cshtml.cs",
+              "RelativeToolTip": "lab1\\Pages\\EX5.cshtml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:12:49.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EX5.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\Pages\\EX5.cshtml",
+              "RelativeDocumentMoniker": "lab1\\Pages\\EX5.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\Pages\\EX5.cshtml",
+              "RelativeToolTip": "lab1\\Pages\\EX5.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:24:08.78Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

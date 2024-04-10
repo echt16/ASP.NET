@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aW6C6tADQkYIGnttMEzj34mPiFjwMhR7a3W9PgKeWzbb7PDJkmWo1AKPOGkATsDG8fK8YvLEATcaOUc6s/XryQ==",
+  "dgSpecHash": "DFPySrsh2NTVAGPgwDTN+XhTaQHDlaJAcqnOLtkdg/BydhSG6F14LzgKiTAoxjMuTiS/22GPAgMMXBp48v7odA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ferrum\\Desktop\\05.04.2024cw\\lab1\\lab1\\lab1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ferrum\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

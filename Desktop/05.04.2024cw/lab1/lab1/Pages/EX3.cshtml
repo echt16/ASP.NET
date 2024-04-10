@@ -1,0 +1,23 @@
+﻿@page
+@model lab1.Pages.EX3Model
+@{
+    ViewData["Title"] = "EX3";
+}
+
+<form method="post">
+    <input type="text" name="loginInput" placeholder="Login" />
+    <input type="password" name="passwordInput" placeholder="Password" />
+    <button type="submit">Login</button>
+</form>
+
+@if (Model.AfterLoaded)
+{
+    @if (Model.Answer)
+    {
+        <p>Hello!</p>
+    }
+    else
+    {
+        <p>Some errors. Please try again or <a href="/EX4Register">register</a></p>
+    }
+}

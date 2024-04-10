@@ -1,0 +1,21 @@
+﻿@page
+@model lab1.Pages.EX5Model
+@{
+    ViewData["Title"] = "EX5";
+}
+
+<form method="post">
+    <input type="text" name="nameInput" /><br />
+    <input type="text" name="phoneInput" /><br />
+    <textarea rows="5" name="messageInput"></textarea><br />
+    <input type="submit" value="Submit" /><br />
+</form>
+
+@if (Model.AfterLoad)
+{
+    <div>
+        <p>From: @Model.Info.Name</p>
+        <p>Phone: @Model.Info.Phone</p>
+        <p>Message: @Model.Info.Message</p>
+    </div>
+}

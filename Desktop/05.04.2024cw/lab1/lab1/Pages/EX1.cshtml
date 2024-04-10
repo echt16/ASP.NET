@@ -1,0 +1,24 @@
+﻿@page
+@model lab1.Pages.EX1Model
+@{
+    ViewData["Title"] = "EX1";
+    string? text = Request.Cookies.FirstOrDefault(x => x.Key == "text").Value;
+}
+
+<form id="form">
+    <input type="text" id="text" placeholder="Some Text" />
+    <input type="submit" value="Submit"/>
+</form>
+<h3>@text</h3>
+
+<script name="Scripts">
+    form.onsubmit = function submit(event){
+
+        let text = document.querySelector("#text").value;
+        if (text == "") {
+            return false;
+        }
+        document.cookie = `text=${encodeURIComponent(text)}; path=/; expires=${(new Date()).getTime() + 5 * 60 * 1000}`;
+        return true;
+    }
+</script>
