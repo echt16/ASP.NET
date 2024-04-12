@@ -1,0 +1,65 @@
+﻿@page
+@model lab3.Pages.ReadModel
+@{
+    Model.Id = int.Parse(Request.Cookies["id"]);
+    Model.FillProperties();
+}
+
+<style>
+    form{
+        width: 50%;
+        align-self:center;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid black;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+    }
+
+    .submits{
+        display:flex;
+        justify-content: space-between;
+        height: 40px;
+        align-items:center;
+    }
+
+    input[type='submit'] {
+        width: 130px;
+    }
+</style>
+
+<form method="post">
+    <table>
+        <tr>
+            <th>Book</th>
+            <td>@Model.Book.Name</td>
+        </tr>
+        <tr>
+            <th>Author</th>
+            <td>@Model.Author.Name</td>
+        </tr>
+        <tr>
+            <th>Publisher</th>
+            <td>@Model.Publisher.Name</td>
+        </tr>
+        <tr>
+            <th>Style</th>
+            <td>@Model.Style.Name</td>
+        </tr>
+        <tr>
+            <th>Year</th>
+            <td>@Model.Book.Year</td>
+        </tr>
+    </table>
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class="submits">
+        <input type="submit" value="Delete" asp-page-handler="Delete" />
+        <input type="submit" value="Edit" asp-page-handler="Edit" />
+    </div>
+</form>

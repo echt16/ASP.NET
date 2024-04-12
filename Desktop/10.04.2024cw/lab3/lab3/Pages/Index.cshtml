@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        margin-bottom:10px;
+    }
+
+    th, td {
+        border: 1px solid black;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        cursor:pointer;
+    }
+</style>
+
+<form id="form" method="post">
+    <table id="myTable">
+        <tr>
+            <th>
+                Id:
+            </th>
+            <th>
+                Book name:
+            </th>
+            <th>
+                Author:
+            </th>
+            <th>
+                Publisher:
+            </th>
+            <th>
+                Style:
+            </th>
+            <th>
+                Publish Year:
+            </th>
+        </tr>
+        @foreach (Models.Book book in Model.Books)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Name</td>
+                <td>@Model.Authors.First(x => x.Id == book.AuthorId).Name</td>
+                <td>@Model.Publishers.First(x => x.Id == book.PublisherId).Name</td>
+                <td>@Model.Styles.First(x => x.Id == book.StyleId).Name</td>
+                <td>@book.Year</td>
+            </tr>
+        }
+    </table>
+    <input type="hidden" name="id" id="id"/>
+    <input type="submit" value="Create" asp-page-handler="Create"/>
+</form>
+
+<script name="Scripts">
+</script>

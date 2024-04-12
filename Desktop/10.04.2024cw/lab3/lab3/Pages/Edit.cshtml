@@ -1,0 +1,89 @@
+﻿@page
+@model lab3.Pages.EditModel
+@{
+    Model.Id = int.Parse(Request.Cookies["id"]);
+    Model.FillProperties();
+}
+
+<style>
+    form {
+        width: 50%;
+        align-self: center;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    td, th {
+        border: 1px solid black;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+    }
+
+    .submits {
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+        align-items: center;
+    }
+
+    input[type='submit'] {
+        width: 130px;
+    }
+    input[type='text'], select, input[type='number']{
+        width:100%;
+        height:100%;
+    }
+
+</style>
+
+<form method="post">
+    <table>
+        <tr>
+            <th>Book</th>
+            <td><input type="text" name="book" value="@Model.Books.First(x=>x.Id == Model.Id).Name" required /></td>
+        </tr>
+        <tr>
+            <th>Author</th>
+            <td>
+                <select name="author" required>
+                    @foreach (string item in Model.Authors.Select(x => x.Name))
+                    {
+                        <option value="@item">@item</option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>Publisher</th>
+            <td>
+                <select name="publisher" required>
+                    @foreach (string item in Model.Publishers.Select(x => x.Name))
+                    {
+                        <option value="@item">@item</option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>Style</th>
+            <td>
+                <select name="style" required>
+                    @foreach (string item in Model.Styles.Select(x => x.Name))
+                    {
+                        <option value="@item">@item</option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>Year</th>
+            <td><input type="number" name="year" value="@Model.Books.First(x=>x.Id == Model.Id).Year" required /></td>
+        </tr>
+    </table>
+    <input type="submit" value="Ok" />
+</form>
