@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\control.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\control.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/QuestRoomDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\changerooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\changerooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\regadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\regadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\reg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\reg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\changephotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\changephotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\changenumbers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\changenumbers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\changecompanies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\changecompanies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\reservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\reservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|c:\\users\\ferrum\\desktop\\12.04.2024\\project\\project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99CE1E86-12FC-44FB-ABD4-9477C8A054BB}|Project\\Project.csproj|solutionrelative:project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 86,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Control.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Control.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\Control.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Control.cshtml",
+              "RelativeToolTip": "Project\\Pages\\Control.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:06:55.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:04:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Users [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/QuestRoomDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-20T11:00:57.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Project\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Project\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T16:05:14.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\RegAdmin.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\RegAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\RegAdmin.cshtml",
+              "RelativeToolTip": "Project\\Pages\\RegAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:08:26.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reg.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Reg.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\Reg.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Reg.cshtml",
+              "RelativeToolTip": "Project\\Pages\\Reg.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:08:20.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeRooms.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangeRooms.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\ChangeRooms.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangeRooms.cshtml",
+              "RelativeToolTip": "Project\\Pages\\ChangeRooms.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:07:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangePhotos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangePhotos.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\ChangePhotos.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangePhotos.cshtml",
+              "RelativeToolTip": "Project\\Pages\\ChangePhotos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:07:50.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeNumbers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangeNumbers.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\ChangeNumbers.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangeNumbers.cshtml",
+              "RelativeToolTip": "Project\\Pages\\ChangeNumbers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:07:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangeCompanies.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangeCompanies.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\ChangeCompanies.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\ChangeCompanies.cshtml",
+              "RelativeToolTip": "Project\\Pages\\ChangeCompanies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T16:07:04.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Reservation.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\Reservation.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Reservation.cshtml",
+              "RelativeToolTip": "Project\\Pages\\Reservation.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T19:48:06.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Project\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Project\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwNAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:27:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ferrum\\Desktop\\12.04.2024\\Project\\Project\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Project\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T18:27:03.184Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
